@@ -1,4 +1,4 @@
-Hi 👋<br>I'm Alyona<br>Frontend developer with practical experience in QA (manual).<br><br>Stack: HTML, CSS, JS, TS, React, Redux<br><br>You can contact me at a@poleta.ru
+Hi 👋<br>I'm Alyona<br>Frontend developer with practical experience in QA (manual).<br>
 
 
 ## 🌐 Socials:
